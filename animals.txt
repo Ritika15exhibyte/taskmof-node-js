@@ -1,0 +1,7 @@
+tiger
+tiger
+cat
+dog
+rabbit
+donkey
+donkey
